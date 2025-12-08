@@ -1,0 +1,6 @@
+# macOS files
+.DS_Store
+
+# Optional: You can add other things Git should ignore, like compiled files:
+# *.log
+# *.exe
